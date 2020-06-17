@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="moj_teskt">Hello world!</string>
+    <string name="Tekst1">Text 1</string>
+    <string name="dzien_dobry">Good morning!</string>
+    <string name="poniedziałek">Monday</string>
+    <string name="inf">Informatics</string>
+    <string name="app">Application</string>
+</resources>
